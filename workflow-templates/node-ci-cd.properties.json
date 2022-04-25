@@ -1,13 +1,4 @@
 {
     "name": "Lynx Network Workflow",
-    "description": "Lynx Network CI starter node workflow.",
-    "iconName": "example-icon",
-    "categories": [
-        "Go"
-    ],
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
-    ]
+    "description": "Lynx Network CI starter node workflow."
 }
