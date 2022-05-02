@@ -1,4 +1,4 @@
 {
-    "name": "Database script - pull request",
+    "name": "Database script - Production",
     "description": "Workflow to run database script in pull request."
 }
